@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack data engineering & cloud computing.
 - 🌱 I’m currently learning/revisiting software and data engineering fundamentals. 
 - 💞️ I’m looking to collaborate on data integration and cloud computing platforms.
-- 📫 How to reach me turnboughsg@gmail.com
+- 📫 How to reach me sophia.turnbough@outlook.com
 
 <!---
 turnboughsg/turnboughsg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
